@@ -1,0 +1,41 @@
+---
+layout: page
+permalink: /photos/
+titles:
+  # @start locale config
+  en      : &EN       Gallery
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  相册
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  zh-Hant : *ZH_HANT  
+  zh-TW   : *ZH_HANT
+  zh-HK   : *ZH_HANT
+  ko      : *KO       
+  ko-KR   : *KO
+  fr      : *FR       
+  fr-BE   : *FR
+  fr-CA   : *FR
+  fr-CH   : *FR
+  fr-FR   : *FR
+  fr-LU   : *FR
+  # @end locale config
+---
+
+<div>
+  <ul>
+    {% comment %} Get all "photo_set" pages and display a list with links to
+    them. {% endcomment %} {% assign photo_pages = site.pages | where: "layout",
+    "photo_set" %} {% for photo_page in photo_pages %}
+    <li>
+      <a href="{{ photo_page.url | prepends: site.baseurl }}"
+        >{{ photo_page.title }}</a
+      >
+    </li>
+    {% endfor %}
+  </ul>
+</div>
