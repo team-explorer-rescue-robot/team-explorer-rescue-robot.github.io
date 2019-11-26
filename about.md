@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-# Explorer  西北工业大学舞蹈机器人基地救援组
+<!-- # Explorer  西北工业大学舞蹈机器人基地救援组 -->
 
 ### 视频展示
 
