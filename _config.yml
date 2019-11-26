@@ -1,41 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-#
-# ,--------.      ,--.   ,--. ,--.
-# '--.  .--',---.  \  `.'  /,-'  '-.
-#    |  |  | .-. :  .'    \ '-.  .-'
-#    |  |  \   --. /  .'.  \  |  |
-#    `--'   `----''--'   '--' `--'
-
-
-
-
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "tomorrow-night-bright" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://li837730924.github.io/ # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://team-explorer-rescue-robot.github.io/ # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 西工大舞蹈机器人救援组
+title   : 西工大舞蹈机器人基地-救援组
 description: > # this means to ignore newlines until "Language & timezone"
   记录救援组的点滴
 
 
 ## => Language and Timezone
 ##############################
-lang: zh-CN # the language of your site, default as "en"
-timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
-
+lang: zh-CN
+timezone: Asia/Shanghai 
 
 ## => Author and Social
 ##############################
 author:
   type      : 西工大救援组# "person" (default), "organization"
-  name      : Your Name
+  name      : Explorer
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
@@ -49,13 +32,13 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : team-explorer-rescue-robot # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: li837730924/li837730924.github.io
+repository: team-explorer-rescue-robot
 repository_tree: master
 
 
@@ -85,7 +68,7 @@ toc:
 ##############################
 ## Mathjax
 mathjax: true # false (default), true
-mathjax_autoNumber: true# false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
 mermaid: true # false (default), true
@@ -184,18 +167,13 @@ highlighter : rouge
 permalink   : date
 
 exclude:
-  - CHANGELOG.md
-  - HOW_TO_RELEASE.md
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README-*.md
   - README.md
   - gulpfile.js
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
   - /node_modules
   - /screenshots
   - /test
