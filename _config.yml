@@ -193,7 +193,8 @@ defaults:
       show_subscribe: true
       pageview: true
 
-
+theme: jekyll-text-theme
+text_skin: forest  # "default" (default), "dark","default", "forest", "ocean", "chocolate", "orange"
 ## => Plugins
 ##############################
 plugins:
