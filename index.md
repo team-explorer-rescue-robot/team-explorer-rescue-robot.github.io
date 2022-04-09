@@ -38,7 +38,7 @@ key: page-about
 
 > 以下排名不分先后
 
-### NWPU_Explorer_2022
+### NWPU_Explorer - 2022
 
 - 软件组：杜高源 林政 邓成玺
 - 电子组：张镇韬 王正帅
@@ -46,7 +46,7 @@ key: page-about
 
 
 
-### NWPU_Explorer_2021
+### NWPU_Explorer - 2021
 
 - 软件组：冯雪扬 陆畅 李炜胜
 - 电子组：胡滎韬 王鹏博
@@ -54,7 +54,7 @@ key: page-about
 
 
 
-### NWPU_Explorer-2020
+### NWPU_Explorer - 2020
 
 - 软件组：郝彦琦，陈弈睿，张浩嘉
 - 电子组：王子腾，祁荧生、
