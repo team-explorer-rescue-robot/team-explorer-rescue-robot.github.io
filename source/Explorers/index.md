@@ -1,7 +1,7 @@
 ---
 title: Explorers
 date: 2022-07-27 00:15:05
-top_img: /img/Explorers.jpg
+top_img: /themes/butterfly/source/img/Explorers.jpg
 ---
 
 
