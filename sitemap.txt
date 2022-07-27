@@ -1,5 +1,5 @@
-https://team-explorer-rescue-robot.github.io/movies/index.html
 https://team-explorer-rescue-robot.github.io/Explorers/index.html
+https://team-explorer-rescue-robot.github.io/Videos/index.html
 https://team-explorer-rescue-robot.github.io/link/index.html
 https://team-explorer-rescue-robot.github.io/categories/index.html
 https://team-explorer-rescue-robot.github.io/tags/index.html
