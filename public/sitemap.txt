@@ -1,8 +1,8 @@
-http://example.com/movies/index.html
-http://example.com/Explorers/index.html
-http://example.com/link/index.html
-http://example.com/categories/index.html
-http://example.com/tags/index.html
-http://example.com/2022/07/26/Hello-Hexo/
-http://example.com/2022/07/26/hello-world/
-http://example.com/
+https://team-explorer-rescue-robot.github.io/movies/index.html
+https://team-explorer-rescue-robot.github.io/Explorers/index.html
+https://team-explorer-rescue-robot.github.io/link/index.html
+https://team-explorer-rescue-robot.github.io/categories/index.html
+https://team-explorer-rescue-robot.github.io/tags/index.html
+https://team-explorer-rescue-robot.github.io/2022/07/26/Hello-Hexo/
+https://team-explorer-rescue-robot.github.io/2022/07/26/hello-world/
+https://team-explorer-rescue-robot.github.io/

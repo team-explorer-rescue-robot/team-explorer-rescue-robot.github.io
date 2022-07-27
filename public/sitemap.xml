@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/movies/index.html</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/movies/index.html</loc>
     
     <lastmod>2022-07-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/Explorers/index.html</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/Explorers/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/link/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/categories/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/tags/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/07/26/Hello-Hexo/</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/2022/07/26/Hello-Hexo/</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/07/26/hello-world/</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/2022/07/26/hello-world/</loc>
     
     <lastmod>1985-10-26</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://team-explorer-rescue-robot.github.io/</loc>
     <lastmod>2022-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
