@@ -39,7 +39,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
+  fab fa-github: https://github.com/team-explorer-rescue-robot || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)
