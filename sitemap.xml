@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/movies/index.html</loc>
+    
+    <lastmod>2022-07-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/Explorers/index.html</loc>
+    
+    <lastmod>2022-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/link/index.html</loc>
+    
+    <lastmod>2022-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/2022/07/26/Hello-Hexo/</loc>
+    
+    <lastmod>2022-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/2022/07/26/hello-world/</loc>
+    
+    <lastmod>1985-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://team-explorer-rescue-robot.github.io/</loc>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
