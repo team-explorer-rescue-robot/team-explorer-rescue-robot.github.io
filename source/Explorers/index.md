@@ -18,7 +18,7 @@ top_img: https://i.pinimg.com/originals/31/d0/1c/31d01c0266e32fa5d401dc97c0001b7
 
 ### NWPU_Explorer - 2022
 
-- 软件组：杜高源、林政、邓成玺..
+- 软件组：杜高源、林政、邓成玺...
 - 电子组：张镇韬、王正帅
 - 机械组：盛家铖、苏世龙
 
