@@ -108,3 +108,15 @@ npm install hexo-deployer-git --save
 ### 3.5 网站源码问题
 
 推送更新网站使用 hexo d 很方便，但是源码就没有完全放在Github上。所以，我新建了一个分支code，这个分支就是本地所有源码，`hexo n page newpage`就可以生成新页面。
+
+### 3.6 重装系统 nodejs 和 hexo 的重新配置
+
+2022年9月12日杜某人的win10崩掉了，重装系统后很多编程环境都丢失了。下面记录如题所示的问题：
+
+1. 找到nodejs所在目录，如 `D:\Software\Node.js`，将这个路径添加到系统变量Path中。
+
+2. 找到源码目录下的node_modules//.bin，如`D:\Website\rescue\node_modules\.bin`，添加到系统变量Path中。
+
+3. 查看nodejs和hexo的复原情况：
+
+   ![test](z_Picformd/test.png)
