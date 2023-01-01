@@ -104,3 +104,7 @@ npm install hexo-deployer-git --save
 ```
 
 然后在使用`Hexo d`命令就可以推送了。
+
+### 3.5 网站源码问题
+
+推送更新网站使用 hexo d 很方便，但是源码就没有完全放在Github上。所以，我新建了一个分支code，这个分支就是本地所有源码，`hexo n page newpage`就可以生成新页面。
