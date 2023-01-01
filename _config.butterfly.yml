@@ -4,15 +4,16 @@
 
 menu:
   首页: / || fas fa-home
-  成员: /Explorers/ || fas fa-heart
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
+  记忆||fa fa-heartbeat:
+    成员: /Explorers/ || fas fa-heart
     音乐: /music/ || fas fa-music
     照片: /Gallery/ || fas fa-images
     视频: /Videos/ || fas fa-video
-  友链: /link/ || fas fa-link
+  资料|| fas fa-book:
+    友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 
@@ -579,14 +580,15 @@ click_heart:
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: true
   text:
-    # - I
-    # - LOVE
-    # - YOU
+    - NWPU
+    - Rescue
+    - Explorers
+    - Robots
   fontSize: 15px
-  random: false
-  mobile: false
+  random: true
+  mobile: true
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark
